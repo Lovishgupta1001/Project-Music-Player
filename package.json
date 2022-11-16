@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "moment": "^2.29.4"
+  }
+}
